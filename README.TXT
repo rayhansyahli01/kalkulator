@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE:kalkulator
+PURPOSE OF PROJECT:mencari rumus matematika
+VERSION or DATE:20-04-2021
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS:raihan
+USER INSTRUCTIONS:rayhansyhali01
